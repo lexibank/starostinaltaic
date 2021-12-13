@@ -1,0 +1,55 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,IDInSource
+turkish,Turkish     ,,,,,,,Turkic,TRK
+tatar,Tatar       ,,,,,,,Turkic,TAT
+uzbek,Uzbek       ,,,,,,,Turkic,UZB
+uighur,Uighur      ,,,,,,,Turkic,UIG
+saryyughur,Sary Yughur ,,,,,,,Turkic,SJG
+azerbaidzhan,Azerbaidzhan,,,,,,,Turkic,AZB
+turkmen,Turkmen     ,,,,,,,Turkic,TRM
+khankassian,Khankassian ,,,,,,,Turkic,HAK
+chuvash,Chuvash     ,,,,,,,Turkic,CHV
+yakut,Yakut       ,,,,,,,Turkic,JAK
+tuva,Tuva        ,,,,,,,Turkic,TUV
+kirghiz,Kirghiz     ,,,,,,,Turkic,KRG
+noghai,Noghai      ,,,,,,,Turkic,NOG
+bashkir,Bashkir,,,,,,,Turkic,BAS
+balkar,Balkar,,,,,,,Turkic,BLK
+gagauz,Gagauz,,,,,,,Turkic,GAG
+karaim,Karaim,,,,,,,Turkic,KRM
+karakalpak,Karakalpak,,,,,,,Turkic,KLP
+oldturkic,Old_Turkic,,,,,,,Turkic,ATU
+salar,Salar,,,,,,,Turkic,SAL
+middlemongolian,Middle Mongolian,,,,,,,Mongolia,AMO
+khalkha,Khalkha,,,,,,,Mongolia,HAL
+kalmuck,Kalmuck,,,,,,,Mongolia,KAL
+dongxian,Dongxian,,,,,,,Mongolia,DUN
+baoan,Baoan,,,,,,,Mongolia,BAO
+dagur,Dagur,,,,,,,Mongolia,DAG
+monguor,Monguor,,,,,,,Mongolia,MGR
+sharyyoghur,Shary-Yoghur,,,,,,,Mongolia,YUY
+negidal,Negidal,,,,,,,Tungusic,NEG
+manchu,Manchu,,,,,,,Tungusic,MAN
+literarymanchu,Literary Manchu,,,,,,,Tungusic,LMA
+nanai,Nanai,,,,,,,Tungusic,NAN
+ulcha,Ulcha,,,,,,,Tungusic,ULC
+orok,Orok,,,,,,,Tungusic,ORK
+jurchen,Jurchen,,,,,,,Tungusic,CHU
+evenki,Evenki,,,,,,,Tungusic,EVK
+modernkorean,Modern Korean,,,,,,,Koreanic,PHN
+chensando,Chensando,,,,,,,Koreanic,CHN
+phyenyangnamdo,Phyenyang namdo,,,,,,,Koreanic,PNM
+kyensando,Kyensando,,,,,,,Koreanic,KJN
+hamgyengdo,Hamgyengdo,,,,,,,Koreanic,HMG
+chejudo,Chejudo,,,,,,,Koreanic,CJD
+seoul,Seoul,,,,,,,Koreanic,SEU
+kanwendo,Kanwendo,,,,,,,Koreanic,KNW
+middlekorean,Middle Korean,,,,,,,Koreanic,AKO
+tokyo,Tokyo,,,,,,,Japonic,TOK
+kameyama,Kameyama,,,,,,,Japonic,KAM
+kyoto,Kyoto,,,,,,,Japonic,KYO
+kagushima,Kagushima,,,,,,,Japonic,KAG
+oldjapanese,Old Japanese,,,,,,,Japonic,AJP
+nase,Nase,,,,,,,Japonic,NAS
+shuri,Shuri,,,,,,,Japonic,SHU
+hateruma,Hateruma,,,,,,,Japonic,HAT
+yonakuni,Yonakuni,,,,,,,Japonic,YON

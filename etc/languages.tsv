@@ -1,0 +1,55 @@
+ID	Name	Family	IDInSource
+Turkish     	Turkish     	Turkic	TRK
+Tatar       	Tatar       	Turkic	TAT
+Uzbek       	Uzbek       	Turkic	UZB
+Uighur      	Uighur      	Turkic	UIG
+Sary_Yughur 	Sary Yughur 	Turkic	SJG
+Azerbaidzhan	Azerbaidzhan	Turkic	AZB
+Turkmen     	Turkmen     	Turkic	TRM
+Khankassian 	Khankassian 	Turkic	HAK
+Chuvash     	Chuvash     	Turkic	CHV
+Yakut       	Yakut       	Turkic	JAK
+Tuva        	Tuva        	Turkic	TUV
+Kirghiz     	Kirghiz     	Turkic	KRG
+Noghai      	Noghai      	Turkic	NOG
+Bashkir	Bashkir	Turkic	BAS
+Balkar	Balkar	Turkic	BLK
+Gagauz	Gagauz	Turkic	GAG
+Karaim	Karaim	Turkic	KRM
+Karakalpak	Karakalpak	Turkic	KLP
+Old_Turkic	Old_Turkic	Turkic	ATU
+Salar	Salar	Turkic	SAL
+Middle_Mongolian	Middle Mongolian	Mongolia	AMO
+Khalkha	Khalkha	Mongolia	HAL
+Kalmuck	Kalmuck	Mongolia	KAL
+Dongxian	Dongxian	Mongolia	DUN
+Baoan	Baoan	Mongolia	BAO
+Dagur	Dagur	Mongolia	DAG
+Monguor	Monguor	Mongolia	MGR
+Shary-Yoghur	Shary-Yoghur	Mongolia	YUY
+Negidal	Negidal	Tungusic	NEG
+Manchu	Manchu	Tungusic	MAN
+Literary_Manchu	Literary Manchu	Tungusic	LMA
+Nanai	Nanai	Tungusic	NAN
+Ulcha	Ulcha	Tungusic	ULC
+Orok	Orok	Tungusic	ORK
+Jurchen	Jurchen	Tungusic	CHU
+Evenki	Evenki	Tungusic	EVK
+Modern_Korean	Modern Korean	Koreanic	PHN
+Chensando	Chensando	Koreanic	CHN
+Phyenyang_namdo	Phyenyang namdo	Koreanic	PNM
+Kyensando	Kyensando	Koreanic	KJN
+Hamgyengdo	Hamgyengdo	Koreanic	HMG
+Chejudo	Chejudo	Koreanic	CJD
+Seoul	Seoul	Koreanic	SEU
+Kanwendo	Kanwendo	Koreanic	KNW
+Middle_Korean	Middle Korean	Koreanic	AKO
+Tokyo	Tokyo	Japonic	TOK
+Kameyama	Kameyama	Japonic	KAM
+Kyoto	Kyoto	Japonic	KYO
+Kagushima	Kagushima	Japonic	KAG
+Old_Japanese	Old Japanese	Japonic	AJP
+Nase	Nase	Japonic	NAS
+Shuri	Shuri	Japonic	SHU
+Hateruma	Hateruma	Japonic	HAT
+Yonakuni	Yonakuni	Japonic	YON
